@@ -4,3 +4,5 @@ coverage
 data
 
 globalConfig.json
+
+.vscode
